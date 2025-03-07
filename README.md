@@ -4,7 +4,7 @@ Yes, **OneDrive is generally safe**, but **it depends on how you configure secur
 
 ---
 
-## **🔹 Security Risks of Storing KeePass in OneDrive**
+## **🔹 FAQs on Security Risks of Storing KeePass in OneDrive**
 1. **Shared Access Risk**  
    - If you **share the file incorrectly**, unauthorized users may access it.
    - **Solution**: Share **only with trusted employees** and use **Viewer (Read-Only)** permissions.
